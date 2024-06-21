@@ -1,0 +1,32 @@
+Objects And Its Internal Representation In JavaScript-->
+
+It is an unordered collection of data, of primitive or reference types, in the form of “key: value” pairs.
+It is enclosed within Set Braces.
+An object is a standalone entity, with properties and type.
+It is more complex and each object may contain any combination of these primitive data-types as well as reference data-types.
+
+SYNTAX:
+
+var ObjectName = {
+    //block of codes
+}
+
+Creating objects:
+
+using object initializers
+using constructor function
+using object.create() PaymentMethodChangeEvent
+
+Objects and properties:
+
+A JavaScript object has properties associated with it.
+The properties of an object define the characteristics of the object.
+
+example:
+
+const MyCar = {
+    make: "Ford",
+    model: "Mustang",
+    year: 1969,
+  };
+
